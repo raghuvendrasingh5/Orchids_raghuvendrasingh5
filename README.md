@@ -1,9 +1,9 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Chemistry 
 :--|:--|
-<b> Lab | <b> Fill your lab name here
+<b> Lab | <b> Chemistry lab
 <b> Experiment|     <b> Fill your experiment name and number here
 
 ### About the Experiment 
