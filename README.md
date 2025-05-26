@@ -1,10 +1,10 @@
 ## Introduction
 
 
-<b>Discipline | <b>Chemistry 
+<b>Discipline | <b>Chemical Engineering 
 :--|:--|
 <b> Lab | <b> Chemistry lab
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Experiment|     <b> Le Chatelier Reactor
 
 ### About the Experiment 
 
